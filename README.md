@@ -1,3 +1,5 @@
+Server Name / Local Continent / ("Country Location"): "IP"
+
 Hive Europe (France):
 91.134.31.228
 
