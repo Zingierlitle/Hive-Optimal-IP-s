@@ -9,7 +9,7 @@ Hive Europe (France):
 
 
 Hive North America (Canada):
-`167.114.150.117`
+`198.100.159.215`
 
 
 Hive Asia (Singapore):
