@@ -26,10 +26,18 @@ Hive Asia (Singapore):
 ![Server Locations](https://github.com/user-attachments/assets/887f908f-4f27-4a18-8216-717ba2521792)
 
 
+more info:
+this method might not work for you guys.
 
 
+these are ip that is lowest ms i get:
+*Hive EU: 33 ms*
+*Hive NA: 103 ms*
+*Hive AS: 183 ms*
 
 
-
-
+with default ip (includes fr.hivebedrock.network):
+*EU: 43 ms*
+*NA: 120 ms*
+*AS: 283ms or 312ms*
 
