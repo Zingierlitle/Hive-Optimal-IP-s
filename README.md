@@ -4,20 +4,20 @@
 
 Server Name / Local Continent / ("Country Location"): "IP" 
 
-Tested servers of me getting lower ms ip (anyone gets different ping so you should try it):
+Here are 2 ips from each region of hive server that may give you lower ms:
 
 
 
 Hive Europe (France):
-`91.134.31.228`
+`91.134.31.228`,
 `94.23.154.44`
 
 Hive North America (Canada):
-`198.100.159.215`
+`198.100.159.215`,
 `198.50.159.15`
 
 Hive Asia (Singapore):
-`139.99.39.236`
+`139.99.39.236`,
 `139.99.38.170`
 
 
