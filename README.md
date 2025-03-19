@@ -17,3 +17,19 @@ Hive North America (Canada):
 Hive Asia (Singapore):
 `139.99.39.236`
 
+
+
+
+
+
+Server locations on hive bedrock server:
+![Server Locations](https://github.com/user-attachments/assets/33d3f558-bd58-4a9c-a60b-5163aaf36301)
+
+
+
+
+
+
+
+
+
