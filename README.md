@@ -23,7 +23,7 @@ Hive Asia (Singapore):
 
 
 Server locations on hive bedrock server:
-![Server Locations](https://github.com/user-attachments/assets/33d3f558-bd58-4a9c-a60b-5163aaf36301)
+![Server Locations](https://github.com/user-attachments/assets/860ee073-aba7-428a-82f7-5f737bdd7fe7)
 
 
 
