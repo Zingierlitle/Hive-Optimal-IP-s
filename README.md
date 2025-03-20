@@ -2,9 +2,8 @@
 
 Server Name / Local Continent / ("Country Location"): "IP" 
 
-Here are 3 ips from each region of hive server that may give you lower ms:
-
-
+Here are 3 ips from each region of hive server that may give you lower ms,
+Go ahead and test these 3 ip from your region and find perfect one and have fun!
 
 # Hive Europe (France):
 `91.134.31.228`,
