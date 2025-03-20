@@ -1,4 +1,4 @@
-#**Best Stable IP's For Hive!** (Stable ping or maybe lower ping.)
+# **Best Stable IP's For Hive!** (Stable ping or maybe lower ping.)
 
 Server Name / Local Continent / ("Country Location"): "IP" 
 
@@ -6,17 +6,17 @@ Here are 3 ips from each region of hive server that may give you lower ms:
 
 
 
-#Hive Europe (France):
+# Hive Europe (France):
 `91.134.31.228`,
 `94.23.154.44`,
 `46.105.70.209`
 
-#Hive North America (Canada):
+# Hive North America (Canada):
 `198.100.159.215`,
 `198.50.159.15`,
 `148.113.187.204`
 
-#Hive Asia (Singapore):
+# Hive Asia (Singapore):
 `139.99.39.236`,
 `139.99.38.170`,
 `15.235.219.212`
