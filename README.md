@@ -1,5 +1,7 @@
 # **Best Stable IP's For Hive!** (Stable ping or maybe lower ping.)
 
+Status: now all those ips not working
+
 Server Name / Local Continent / ("Country Location"): "IP" 
 
 Here are 3 ips from each region of hive server that may give you lower ms,
